@@ -17,8 +17,6 @@
 0.0.0.0 c5tracking.com
 0.0.0.0 c5analytics.com
 0.0.0.0 c5cdn.com
-0.0.0.0 c5media.net
-0.0.0.0 c5media.org
 0.0.0.0 c5adnetwork.com
 0.0.0.0 c5adnetwork.net
 0.0.0.0 c5adnetwork.org
@@ -31,7 +29,6 @@
 0.0.0.0 c5pixel.com
 0.0.0.0 c5pixel.net
 0.0.0.0 c5pixel.org
-
 ads.channel4.com
 cdn.http.anno.channel4.com
 cdn.ss.anno.channel4.com
@@ -44,3 +41,4 @@ sexperienceuk.channel4.com
 webstat.channel4.com
 webstats.channel4.com
 domain cdn.ss.anno.channel4.com
+
