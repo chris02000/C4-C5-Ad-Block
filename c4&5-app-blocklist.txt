@@ -8,8 +8,6 @@
 0.0.0.0 analytics.channel5.com
 0.0.0.0 stats.channel5.com
 0.0.0.0 track.channel5.com
-0.0.0.0 cdn.channel5.com
-0.0.0.0 api.channel5.com        # optional – blocks telemetry API calls
 0.0.0.0 pixel.channel5.com      # typical tracking pixel endpoint
 0.0.0.0 smetrics.channel5.com   # server-side metrics collector
 0.0.0.0 adservice.channel5.com
@@ -34,22 +32,15 @@
 0.0.0.0 c5pixel.net
 0.0.0.0 c5pixel.org
 
-0.0.0.0 ad.smartadserver.com
-0.0.0.0 ad.smartadserver.com.edgekey.net
-0.0.0.0 ad.smartadserver.com.edgekey-staging.net
-0.0.0.0 track.channel4.com
-0.0.0.0 analytics.channel4.com
-0.0.0.0 stats.channel4.com
-0.0.0.0 ads.channel4.com
-0.0.0.0 adsmart.channel4.com
-0.0.0.0 adsmart.channel4.com.edgekey.net
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 adservice.google.com
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 cdn.channel4.com
-0.0.0.0 static.channel4.com
-0.0.0.0 media.channel4.com
-0.0.0.0 s0.2mdn.net
-0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 pagead2.googlesyndication.com
+ads.channel4.com
+cdn.http.anno.channel4.com
+cdn.ss.anno.channel4.com
+channel4.com.112.2o7.net
+channel4.com.sc.omtrdc.net
+channel4.com.ssl.sc.omtrdc.net
+ic.channel4.com
+monitor.channel4.com
+sexperienceuk.channel4.com
+webstat.channel4.com
+webstats.channel4.com
+domain cdn.ss.anno.channel4.com
